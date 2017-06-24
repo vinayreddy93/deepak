@@ -1,0 +1,28 @@
+blame view:-
+Using the blame view you can trace changes to lines in a file and discover how parts of the file evolved over time. …
+
+BOTO FILE:-
+A boto config file is a text file formatted like an .ini configuration file that specifies values for options that control the behavior of the boto library.
+
+SMTP Server:-(SIMPLE MAIL TRANSFER PROTOCOL)
+
+An SMTP server is the machine that takes care of the whole email delivery process: that's why to send your messages with an email client or software you need first
+ of all to configure the correct SMTP settings – in particular, the right SMTP address you're using. (For instance, Gmail's is smtp.gmail.com).
+
+FTP:-(FILE TRANSFER PROTOCOL)
+
+FTP may run in active or passive mode, which determines how the data connection is established. In both cases, the client creates a TCP control connection from 
+a random, usually an unprivileged, port N to the FTP server command port 21.
+
+DNS:-(DOMAIN NAME SYSTEM)
+
+The Domain Name System is a hierarchical decentralized naming system for computers, services, or other resources connected to the Internet or a private network
+
+IMAP:-(INTERNET MESSAGES ACESS PROTOCOL)
+n computing, the Internet Message Access Protocol (IMAP) is an Internet standard protocol used by e-mail clients to retrieve e-mail messages from 
+a mail server over a TCP/IP connection. IMAP is defined by RFC 3501.
+
+POP3:-(POST OFFICE PROTOCOL)
+
+In computing, the Post Office Protocol (POP) is an application-layer Internet standard protocol used by local e-mail clients to retrieve 
+e-mail from a remote server over a TCP/IP connection.
